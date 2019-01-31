@@ -1,0 +1,14 @@
+{
+  "uploadUrl": "http://test/fileUpload",
+  "otherPostData": {
+    "id": "qgq",
+    "type": "post",
+    "cache": "false",
+    "processData": "false",
+    "contentType": "false",
+    "dataType": "json"
+  },
+  "uploadPath": "./dist",
+  "zipName": "uploadTest",
+  "buildShell": "npm run build"
+}
