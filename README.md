@@ -23,11 +23,11 @@
 
 windows：
 
-将upload.exe和upload_config.json拷贝到项目中，修改upload_config.json，双击upload.exe。
+将upload.exe和upload_config.json拷贝到项目中，需要在同一目录下，修改upload_config.json，双击upload.exe。
 
 linux/mac：
 
-将upload.py和upload_config.json拷贝到项目中，修改upload_config.json，执行python upload.py。
+将upload.py和upload_config.json拷贝到项目中，需要在同一目录下，修改upload_config.json，执行python upload.py。
 
 ##### 源码修改生成可执行文件
 
